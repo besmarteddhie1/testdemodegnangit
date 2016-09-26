@@ -1,6 +1,9 @@
 package com.ahm.jx.config;
 
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 public class EntityDomain {
 	
 	public static final int LENGTH_ID_STRING = 36;
